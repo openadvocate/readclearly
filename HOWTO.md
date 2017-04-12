@@ -61,7 +61,7 @@ Example code:
 OARC.init(true, 'top-left', 'neutral', '2016-08-22-ES');
 ```
 
-** Step 3
+## Step 3
 
 Mark up content. In order to help ReadClearly identify the actual
 content, either add a <div> wrapper around the main content in your
