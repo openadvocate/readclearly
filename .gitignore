@@ -1,0 +1,6 @@
+# Mac OSX folder attributes
+.DS_Store
+
+# Ignore Emacs backup files
+*~
+
