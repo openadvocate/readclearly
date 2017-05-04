@@ -31,8 +31,8 @@ tag, be sure to place it after the line you added in step 1.
 </SCRIPT>
 ```
 
-Replace `{autoActivate}`, `{location}`, `{theme}`, and `{glossary}`
-with the desired configuration.
+Replace `{autoActivate}`, `{location}`, `{theme}`, `{footnotes}`, and 
+`{glossary}` with the desired configuration.
 
 Following are the available configuration options:
 
@@ -58,7 +58,7 @@ the latest English edition.
 Example code:
 
 ```
-OARC.init(true, 'top-left', 'neutral', '2016-08-22-ES');
+OARC.init(true, 'top-left', 'neutral', false, '2016-08-22-ES');
 ```
 
 ## Step 3
@@ -95,7 +95,7 @@ residing in the 'spanish-common' subdirectory, provide its name when
 initializing ReadClearly as follows:
 
 ```
-OARC.init(true, 'top-left', 'neutral', 'spanish-common');
+OARC.init(true, 'top-left', 'neutral', false, 'spanish-common');
 ```
 
 If you wish to contribute your own glossary, please issue a pull request in
