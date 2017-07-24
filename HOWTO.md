@@ -31,8 +31,8 @@ tag, be sure to place it after the line you added in step 1.
 </SCRIPT>
 ```
 
-Replace `{autoActivate}`, `{location}`, `{theme}`, and `{glossary}`
-with the desired configuration.
+Replace `{autoActivate}`, `{location}`, `{theme}`, `{footnotes}`, and 
+`{glossary}` with the desired configuration.
 
 Following are the available configuration options:
 
@@ -58,7 +58,7 @@ the latest English edition.
 Example code:
 
 ```
-OARC.init(true, 'top-left', 'neutral', '2016-08-22-ES');
+OARC.init(true, 'top-left', 'neutral', false, '2016-08-22-ES');
 ```
 
 ## Step 3
@@ -122,6 +122,48 @@ creating your own glossary:
 ReadClearly relies on jQuery. Be sure to insert the jQuery library
 before the line in step 1.
 
+# CUSTOM GLOSSARIES
+
+In addition to the glossaries offered by ReadClearly, you have the option to
+use glossaries contributed by other users, or contribute your own. Contributed
+glossaries can be found in our GitHub repository:
+
+[https://github.com/openadvocate/readclearly](https://github.com/openadvocate/readclearly)
+
+To use one of the contributed glossaries in our GitHub repository, simply
+provide the name of the subdirectory in which the glossary resides in the 
+'glossary' parameter as described above. For example, to use the glossary
+residing in the 'spanish-common' subdirectory, provide its name when 
+initializing ReadClearly as follows:
+
+```
+OARC.init(true, 'top-left', 'neutral', false, 'spanish-common');
+```
+
+If you wish to contribute your own glossary, please issue a pull request in
+our GitHub repository. Please follow these steps when creating your own
+glossary:
+
+  - Fork the ReadClearly repository.
+  - Choose a descriptive name for your glossary. The name should only contain
+    letters, numbers, and hyphens. Choose a name that is not already used.
+  - Create a subdirectory with the name you chose for your glossary.
+  - Create the info.yml file in your directory. This file should be in [YAML](https://en.wikipedia.org/wiki/YAML)
+    format, and should contain the following attributes:
+     - name: A human readable name for the glossary.
+     - author: The name of the author. This may be your personal name or your
+       organization's name.
+     - description: A sentence describing the content of the glossary.
+  - Create the glossary.csv file. This file should be in [CSV](https://en.wikipedia.org/wiki/Comma-separated_values)
+    format, containing two columns: 'word' and 'definition'. The 'word' column
+    should contain the word or expression for which you are providing 
+    an explanation. The 'definition' column should contain the text that will be
+    shown to the user. Use one row per expression, and place column headers
+    in the first row. Use UTF-8 encoding. See existing glossaries for example.
+  - Commit your new directory, and issue a pull request. 
+  - Once your pull request has been merged, you can use your glossary by 
+    providing its name in the 'glossary' parameter when initializing 
+    ReadClearly.
 
 # TROUBLESHOOTING
 
