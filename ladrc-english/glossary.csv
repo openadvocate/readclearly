@@ -1,4 +1,5 @@
 Word:,Definition:,Spanish translation:,Spanish word:
+401(k),The most common individual retirement account. Money is deposited in a 401(k) before income taxes are calculated.,,
 abandoned property,Property left behind by a tenant on purpose and it appears that the former owner (or tenant) does not intend to come back for the property.,"Bienes que dejó un inquilino a propósito, y aparentemente su dueño anterior (o inquilino) no tiene intención de volver para llevárselos.",bienes abandonados
 abatement,A rent or tax abatement is a reduction in the amount of rent or tax due.,,
 abrogate,To repeal or cancel an old law using another law or constitutional power.,,
@@ -53,6 +54,7 @@ arraignment,"When a person that is accused of committing a crime is (a) taken to
 arrearage,"Child support that is overdue or unpaid. A parent that has arrearages is ""in arrears.""",Monto de manutención de los hijos que está atrasado o sin pagar. Un padre que está atrasado en sus pagos “está en mora”.,atrasos o mora
 article III judge ,"A federal judge who is appointed for life, during ""good behavior,"" under Article III of the Constitution. Article III judges are nominated by the President and confirmed by the Senate. ",,
 ascertained,Proved to be true.,,
+assets,Things that can be sold for a profit.,,
 assignee,"A person or business that is put in the place of the original creditor, such as a collection agency. You can assign your judgment to another person or business.",,
 assignment of support rights,When a person that gets public assistance (money from the government) agrees to give the state any child support they get in the future. The person gets money and other benefits from the state. So the state can use part of the child support to pay for the cost of that public assistance.,,
 assignment order,A court order (made after a motion) that says a judgment debtor must assign certain rights to the judgment creditor.,,
@@ -77,6 +79,7 @@ Bankruptcy petition ,A formal request for the protection of the federal bankrupt
 bankruptcy trustee ,A private individual or corporation appointed in all Chapter 7 and Chapter 13 cases to represent the interests of the bankruptcy estate and the debtor's creditors.,,
 bench trial,Trial without a jury. The judge decides the case.,,
 bench warrant,"An order given by the judge (or ""bench"") to arrest a person",Una orden que da el juez (desde el “estrado”) para arrestar a una persona.,orden de arresto desde el estrado
+beneficiaries,People named in a will or financial product as receiving something when the owner dies.,,
 benefits,"Money and aid provided to someone with a need for it, like being a disaster survivor.",,
 best interest of the child,"The standard that courts use to decide who will take care of the child. Some of the factors courts look at are: the age of the child, the health of the child, the emotional ties between the parents and the child, the ability of the parents to care for the child, and the child's ties to school, home, and the community.","El criterio utilizado por los tribunales para decidir quién se hará cargo del menor. Los tribunales se fijan en ciertos factores como: la edad y salud del menor, los lazos emocionales entre el menor y sus padres, la capacidad de los padres para cuidar al menor, y los lazos que tiene el menor con su escuela, su hogar y la comunidad.",mejor interés del niño
 bind over,A judge’s decision before a trial that says there is enough evidence for a trial.,,
@@ -97,6 +100,7 @@ caseflow management,How a case is managed from the first paper filed to the fina
 caseload,The number of cases a judge has in a specific time.,,
 cause of action,"The charges (or ""counts"") that make up the case or lawsuit.",,
 caveat emptor,"A theory that says you buy things at your own risk. Comes from the Latin for ""let the buyer beware.""",,
+certificates,"A document with an official record of something. For example, a birth certificate is the official record of a child's birth.",,
 certified copy,"An official copy of a paper from a case file that is marked as being true, complete, and a real copy of the original paper.",,
 challenge for cause,Reasons that a lawyer gives for removing a juror or judge from a case.,,
 chambers,A judge’s office. Also usually where the judge’s clerks work.,,
@@ -128,6 +132,7 @@ common law ,"The legal system that originated in England and is now in use in th
 community service ,A special condition the court imposes that requires an individual to work  without pay  for a civic or non-profit organization.,Una condición especial impuesta por el tribunal que exige a un individuo que trabaje sin pago para una organización cívica o sin fines de lucro.,servicio comunitario; servicio a la comunidad
 concurrent sentence ,"Prison terms for two or more offenses to be served at the same time, rather than one after the other.",,
 consecutive sentence ,Prison terms for two or more offenses to be served one after the other.,,
+conservator,Someone who manages the estate of someone who is incapacitated.,,
 consumer bankruptcy ,A bankruptcy case filed to reduce or eliminate debts that are primarily consumer debts.,,
 consumer debts ,"Debts incurred for personal, as opposed to business, needs. ",,
 contingent claim ,"A claim that may be owed by the debtor under certain circumstances, e.g., where the debtor is a cosigner on another person's loan and that person fails to pay. ",,
@@ -144,7 +149,9 @@ de novo ,"Latin, meaning ""anew."" A trial de novo is a completely new trial. Ap
 debtor,A person who has filed a petition for relief under the Bankruptcy Code.,Una persona que presentó una petición conforme al Código de Quiebras.,deudor
 debtor's plan ,A debtor's detailed description of how the debtor proposes to pay creditors' claims over a fixed period of time.,,
 declaratory judgment,"A judge's statement about someone's rights. For example, a plaintiff may seek a declaratory judgment that a particular statute, as written, violates some constitutional right. ",,
+decrees,"An order by a court, ordering certain things.",,
 deductibles,Money that someone has to pay before an insurance company will start paying to fix something.,,
+deed,"A document stating that someone owns a piece of property, and filed in an official record. Merely holding a deed does not grant ownership of a piece of land.",,
 default judgment ,A judgment awarding a plaintiff the relief sought in the complaint because the defendant has failed to appear in court or otherwise respond to the complaint.,Un fallo que le reconoce al demandante la medida que solicitó en su demanda porque el demandado no compareció ante el tribunal o no respondió a la demanda de alguna otra manera.,fallo por falta de comparecencia o en rebeldía
 defendant,An individual (or business) against whom a lawsuit is filed.,Un individuo (o empresa) contra quien se inicia un caso o una demanda.,demandado
 deposition ,"An oral statement made before an officer authorized by law to administer oaths. Such statements are often taken to examine potential witnesses, to obtain discovery, or to be used later in trial. See discovery. ",,
@@ -212,15 +219,19 @@ in camera,"Latin, meaning in a judge's chambers. Often means outside the presenc
 in forma pauperis ,"""In the manner of a pauper."" Permission given by the court to a person to file a case without payment of the required court fees because the person cannot pay them. ",,
 in loco parentis,"Literally means ""in place of a parent."" It is a term used for someone who is acting in place of a parent. ",,
 in re,In the matter of.,,
+incapacitated,"A person has an injury, illness, or some other condition that prevents them from making decisions for themselves.",,
 income,"money received, especially on a regular basis, for work or through investments.",,
 inculpatory evidence ,Evidence indicating that a defendant did commit the crime.,,
 indictment,The formal charge issued by a grand jury stating that there is enough evidence that the defendant committed the crime to justify having a trial; it is used primarily for felonies.,,
+Individual retirement account,An account with a mutual fund that invests money for a person to use when they retire.,,
 inheritance,Whatever one receives upon the death of a relative due to the laws of descent and distribution or by the terms of the will.,"Lo que uno recibe al fallecimiento de un pariente, dispuesto por las leyes sucesorias o por los términos del testamento.",herencia; patrimonio
 injunction,"A court order preventing one or more named parties from taking some action. A preliminary injunction often is issued to allow fact-finding, so a judge can determine whether a permanent injunction is justified. ",,
 installment payment,A routine payment required by some kind of loan or mortgage.,,
+insurance,A way to manage risk. Insurance uses a shared pool of money to pay out claims.,,
 insurance claims,A request for payment sent to an insurance company.,,
 interrogatories,A form of discovery consisting of written questions to be answered in writing and under oath.,,
 intestate,When a person dies without leaving a valid will.,Cuando una persona fallece sin dejar un testamento válido.,intestado
+inventory,A list of your belongings that includes evidence of their value.,,
 joint administration ,A court-approved mechanism under which two or more cases can be administered together.,,
 joint petition ,One bankruptcy petition filed by a husband and wife together.,,
 judgeship,"The position of judge. By statute, Congress authorizes the number of judgeships for each district and appellate court. ",,
@@ -235,11 +246,13 @@ lease,A document allowing you to live in a home owned by a landlord.,,
 lease option agreement,"A lease that contains a clause that gives the tenant some power, either qualified or unqualified, to buy the landlord's interest in the property. ",,
 legal custody,The right of a parent to make important decisions in the child’s life.,El derecho de un padre a tomar decisiones importantes sobre la vida del menor.,custodia legal
 legal seperation,"A court-decree right to not live with your spouse, but with the rights/obligations of divorced persons. ",,
+lender,"Someone, usually a bank, that lends money.",,
 lessee,The renter of the property (the tenant).,,
 lessor,The owner of the property (your landlord).,,
 letter of attorney,A document authorizing another person to act as one's agent.,,
 lexis,A computerized full-text legal database.,,
 liability,Legal responsibility for one's acts or omissions.,La obligación legal de responder por los actos u omisiones propios.,responsabilidad
+liability coverage,Insurance that specifically covers the risk of getting sued in court.,,
 licensee,"A person who lives in apartment who is not a tenant and unrelated to the tenant, but is allowed to stay there because a tenant allows it.",,
 lien,A claim against property that may be used to repay a debt.,Un reclamo contra una propiedad que se puede usar para pagar una deuda.,derecho de retención
 limited divorce,Establishes certain legal responsibilities while the parties are separated but does not end the marriage.,,
@@ -249,6 +262,7 @@ liquidation,The sale of a debtor's property with the proceeds to be used for the
 litigant,"Any party to a lawsuit. It does not include the judge, witnesses or attorneys. ","Cualquiera de las partes de una demanda. No incluye al juez, los testigos ni los abogados. ",litigante
 litigation,"A case, controversy, or lawsuit. Participants (plaintiffs and defendants) in lawsuits are called litigants. ","Un caso, controversia, o pleito. Los participantes (demandantes y demandados) del pleito se llaman litigantes. ",litigio
 living will,"A living will usually states that if you are terminally ill, then death-delaying procedures shall not be used to prolong your life. It also can authorize a person to make health care decisions for you if you become incapacitated.","Un testamento en vida, o documento de voluntad anticipada, generalmente se usa para decir que si usted tiene una enfermedad terminal no quiere que se usen procedimientos para demorar su muerte. También puede autorizar a una persona a tomar decisiones sobre su atención de la salud si usted queda incapacitado.",testamento en vida/documento de voluntad anticipada
+loan servicer,"A company that buys debt from a lender, usually for pennies on the dollar, with the intention of collecting the money owed.",,
 magistrate judge ,"A judicial officer of a district court who conducts initial proceedings in criminal cases, decides criminal misdemeanor cases, conducts many pretrial civil and criminal matters on behalf of district judges, and decides civil cases with the consent of the parties. ",,
 marital property,All property either spouse bought during the marriage. It does not matter whose name is on the title.,Todos los bienes que cualquiera de los cónyuges compró durante el matrimonio. No importa a nombre de quién están los bienes.,bienes conyugales; bienes en común
 material breach,"A breach (violation, failure to perform) which is important, substantial, not trivial. ",,
@@ -267,6 +281,7 @@ no-asset case ,A Chapter 7 case in which there are no assets available to satisf
 nolo contendere ,"No contest. A plea of nolo contendere has the same effect as a plea of guilty, as far as the criminal sentence is concerned, but may not be considered as an admission of guilt for any other purpose. ",,
 nondischargeable debt ,A debt that cannot be eliminated in bankruptcy.,,
 nonexempt assets ,Property of a debtor that can be liquidated to satisfy claims of creditors.,,
+nonperishable,"Food that doesn't spoil quickly or easily. For example, canned food.",,
 nonprofit,A charitable company set up to run without making a profit at the end of a year.,,
 nonprofits,Charitable companies set up to run without making a profit at the end of a year.,,
 notary public,A person authorized by the state to give oaths.,Una persona autorizada por el estado a prestar juramento.,notario público
@@ -298,6 +313,7 @@ power of attorney,A document that gives someone authority to act on your behalf 
 pre-bankruptcy planning ,The arrangement (or rearrangement) of a debtor's property to allow the debtor to take maximum advantage of exemptions.,,
 precedent,A court decision in an earlier case with facts and legal issues similar to a dispute currently before a court.,,
 preferential debt payment ,A debt payment made to a creditor in the 90-day period before a debtor files bankruptcy (or within one year if the creditor was an insider) that gives the creditor more than the creditor would receive in the debtor's chapter 7 case.,,
+premium,Money you pay for insurance coverage.,,
 presentence report ,"A report prepared by a court's probation officer, after a person has been convicted of an offense, summarizing for the court the background information needed to determine the appropriate sentence. ",,
 pretrial conference ,"A meeting of the judge and lawyers to plan the trial, to discuss which matters should be presented to the jury, to review proposed evidence and witnesses, and to set a trial schedule. ",,
 pretrial services ,A function of the federal courts that takes place at the very start of the criminal justice process after a person has been arrested and charged with a federal crime and before he or she goes to trial.,,
@@ -323,12 +339,15 @@ qualified immigrant,Someone who moved to the United States and is allowed to rec
 quitclaim deed,A real property deed that transfers only the interest in the property in which the grantor has claim to.,,
 reaffirmation agreement ,"An agreement by a debtor to continue paying a dischargeable debt after the bankruptcy, usually for the purpose of keeping collateral or mortgaged property that would otherwise be subject to repossession. ",,
 real estate property,"Land. For example, a house or farm.",,
+real property,"Land. For example, a house or farm.",,
 record/record extract,"On appeal, the record consists of a transcript of all or a portion of the proceedings in lower courts, including testimony, pleadings, opinions, etc. ",,
 remand,To send back; return of a case by an appellate court to the trial court for further proceedings.,,
 renewal of summons,An attempt to try again to serve the defendant with the Summons and Complaint,,
+rent subsidy,"A payment from someone, often a government entity, that helps pay someone's rent.",,
 res judicata,The thing has been decided.,,
 rescind,"To annul, cancel, terminate a contract, including a lease, and to restore the parties to the position they would occupy if no contract had been made. ",,
 restraining order,A temporary order of a court to keep conditions as they are (like not taking a child out of the county or not selling marital property) until there can be a hearing in which both parties are present. More properly it is called a temporary restraining order (shortened to TRO).,,
+revocable living trust,"A legal entity that holds assets, in a way that allows them to be distributed to beneficiaries without probate.",,
 secured creditor ,A secured creditor is an individual or business that holds a claim against the debtor that is secured by a lien on property of the estate. The property subject to the lien is the secured creditor's collateral.,,
 secured debt ,"Debt backed by a mortgage, pledge of collateral, or other lien; debt for which the creditor has the right to pursue specific pledged property upon default. Examples include home mortgages, auto loans and tax liens. ",,
 security deposit,"An amount of money given to the landlord that can be used to cover unpaid rent, damages, or cleaning. ","Una cantidad de dinero que se da al propietario y que se puede usar para cubrir alquileres impagos, daños o gastos de limpieza. ",depósito de garantía
@@ -366,6 +385,8 @@ temporary restraining order ,"Akin to a preliminary injunction, it is a judge's 
 tenancy,"The tenant's exclusive right, created by a rental agreement between the landlord and the tenant, to use and possess the landlord's rental unit.","El derecho exclusivo del inquilino, creado por el acuerdo de alquiler entre el propietario y el inquilino, a usar y poseer la unidad de alquiler del propietario.",inquilinato
 tenant,A person who has the legal right to live in or use a property.,Una persona que tiene el derecho legal de vivir en o usar una propiedad,inquilino
 tenant,A person who rents a home from a landlord.,,
+tenants,People who rent a house or apartment from a landlord.,,
+termination provisions,Clauses in a rental agreement that say when a landlord or tenant can cancel it.,,
 terminations,The end of a lease or other contract.,,
 testator,A person who has written a will.,Una persona que ha escrito un testamento.,testador
 testimony,Evidence presented orally by witnesses during trials or before grand juries.,Pruebas presentadas oralmente por testigos durante juicios o ante jurados de acusación.,testimonio
@@ -373,6 +394,7 @@ third party claim,A claim filed by a defendant who feels that some third party (
 tort,"A civil, not criminal, wrong. A negligent or intentional injury against a person or property, with the exception of breach of contract. ",,
 trespass,"A wrongful entry, whether with force or peacefully, onto the property of another.",,
 trial jury,A group of citizens who hear the evidence presented by both sides at trial and determine the facts in dispute.,,
+trust,A legal entity that holds assets.,,
 typing service ,A business not authorized to practice law that prepares bankruptcy petitions.,,
 U.S. attorney ,A lawyer appointed by the President in each judicial district to prosecute and defend cases for the federal government.,,
 U.S. trustee ,"An officer of the U.S. Department of Justice responsible for supervising the administration of bankruptcy cases, estates, and trustees",,
